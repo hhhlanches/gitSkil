@@ -1,2 +1,9 @@
 git checkout -b <>
-git checkout --file 
+git checkout --file
+
+in order to avoid mixed used checkout,  get into a new branch as
+git switch -c dev
+
+Creating a new branch is quick and simple.
+
+ 
